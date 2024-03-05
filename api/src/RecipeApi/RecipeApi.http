@@ -1,0 +1,6 @@
+@RecipeApi_HostAddress = "http://localhost:5040";
+
+GET {{RecipeApi_HostAddress}}/recipe/
+Accept: application/json
+
+###

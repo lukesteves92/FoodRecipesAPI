@@ -1,0 +1,66 @@
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/appsettings.Development.json
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/appsettings.json
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/RecipeApi
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/RecipeApi.deps.json
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/RecipeApi.runtimeconfig.json
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/RecipeApi.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/RecipeApi.pdb
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.csproj.AssemblyReference.cache
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.AssemblyInfoInputs.cache
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.AssemblyInfo.cs
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.csproj.CoreCompileInputs.cache
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.MvcApplicationPartsAssemblyInfo.cs
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.MvcApplicationPartsAssemblyInfo.cache
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets/msbuild.RecipeApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets/msbuild.build.RecipeApi.props
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RecipeApi.props
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RecipeApi.props
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/scopedcss/bundle/RecipeApi.styles.css
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.csproj.CopyComplete
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/refint/RecipeApi.dll
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.pdb
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/RecipeApi.genruntimeconfig.cache
+/home/brn/projects/Recipe/api/src/RecipeApi/obj/Debug/net8.0/ref/RecipeApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\appsettings.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\RecipeApi.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\RecipeApi.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\RecipeApi.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\RecipeApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\RecipeApi.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets\msbuild.RecipeApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets\msbuild.build.RecipeApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RecipeApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RecipeApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\scopedcss\bundle\RecipeApi.styles.css
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.csproj.Up2Date
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\refint\RecipeApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\RecipeApi.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Recipe\api\src\RecipeApi\obj\Debug\net8.0\ref\RecipeApi.dll
